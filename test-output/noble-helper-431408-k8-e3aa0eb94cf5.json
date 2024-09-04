@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "noble-helper-431408-k8",
+  "private_key_id": "C",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoEc+PA08lO4v8\nf+AazQwxIori+IZVTeGZi2aTdBq+PAiTSWF0ZxdJn7Bz6NEt4mRu58UjY6MX9vhp\n5ir+qgKPCoevZy8TH2DWpvai1nz1Hd45cgW6WYuDtCJdOl42Uxijp7gX3M7ogp56\nuuDPQivCoQtwJTkbEbr0FgkcHz+eDLyAHWeGX6vUnf+jZSk1RDYuDudMEbVMHuvs\nwp9N4QDSNB/rnX7f2NrXfyiTtVWnD3Qb47s3ZVXQhRMvU/ZJPabjOzTiDFkXqzbk\nrrx4WDuIfH78aV9pPojFp9WylhBjLeUtc5c/MngQ9zpWwgfBGn5o8Br4718WZ0BR\nTbJ5Kac5AgMBAAECggEAKwWeQmd9JSxgW7uDGsTXlUZPlBs5oBfTkmj+56gXCxxL\nBK8OY4t3DD2P8zT+jnCRaOQLrm9avWcaD1vNra9r0QPFOrW4yuU+yRxjzbVQrgpO\n97xVJoJSNGTRGBJpg82s3C4MGVRkgUMxyRPa+GFOhoLfgXdNGmETlQt+vdlnLE/a\nws2CAhxGmYfByh/uU++YL6jxxsLaR8EQkfsDHPdo2CAkCBo+IbhosdRd54oTF9jn\nnvxsJa9rKdknJGucB9hpB9irW75ZWXEQwCVTgVBD196uiz71AF5strF/hug1exTm\nM0iwbxUtEY1BUrbdGnVULtEXVxznF9v+UFZXYNY/hwKBgQD27lif/T946E8nCwBG\nEwcJ/y8gzUYC+pCLB8SQt38Dnyjd3G3J0y98yU7uksUa9ED9XpxbbRjOc6o9Mj0u\nXFOQw8m57lGklkzbE9SIHRXhf1/6Eevt7bqVYkCjgg7kW7yb8dqxKNqTs6mx+ZLC\n2OmxP3bQbjSlK6zWH+ci2xYEgwKBgQDwl7yQ2AT99zRiibavaF1CyWehgEn70mhU\nClQDcQCtbKxJ3GZe3CqN7xDDTZrjwFg0WPWuBiDPWymZTZhmMHqwBMuFqx1o0BSY\nny0gJYiOb5a+Cl7CSvLgWSsz6Kk22nV2cmpT4bIPu+S9U3+ogINX6QtBilWfwzKO\nmK0PN/mwkwKBgQDk5P/GHmzN2Ro2KN5yFoU54RCAqYeyjy2ZkvPE6jOU2d55+jDT\nGy4z0C+Yuvh3Cd+Mfj0WCsUp6tHttDo+VVspIDRIY//OP3yyv2kNW1jDFN2U4zP9\n85Y3j0I3zwGa8Oae78w22JX0wGAXGC/Q6l2F7jxm7SFj0l5+hkgtaUS5nQKBgDlH\ntvI5K/8XAtbO+LqMO1/yOYT+2R5mOsZ/av8iwUmIzQAMxCajflIqb7A/4reEjLtx\nzpQvC1Ky3pWMHtN9iUgs7BOX6LmSiMTJaOH1bayTrqzyJRtW4ro9IIcMRnUzz7Fy\njhQIcO9ECbJ1lbgVWK/uYOqqt7YAsCG5AcLUzdKXAoGAZa/bY+oVxAJ3iBxjNBSH\nJc/SiSG0Q2vK6wcsLkf7GxabJv0wQ4xsT7NotD8kw7QsFQeRDi2byIcFWz/jz43R\nL+vInrtEZl4KF5nj6MzZmxXmzImlS4nZV1tSaboeUaeD/rfXrQIROqrmDHgBr8qK\nadHKgwOXmN506Zt989/e0JA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sample-project-for-selenium@noble-helper-431408-k8.iam.gserviceaccount.com",
+  "client_id": "116526205874778799267",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sample-project-for-selenium%40noble-helper-431408-k8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
